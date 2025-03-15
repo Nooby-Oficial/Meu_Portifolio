@@ -132,4 +132,17 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
+
+    .apresentacao__conteudo__titulo {
+        font-size: 1.8125rem;
+    }
+
+    .apresentacao__links__novegacao {
+        padding: 2% 2% 2% 2%;
+    }
+
+    .apresentacao__imagem {
+        width: 44%;
+    }
+    
 }
